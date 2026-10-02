@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
     cout << "Hello anh em!\n";
+    cout << "tui dang thu sau khi tạo acc microsoft & sign in github cho VS";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
